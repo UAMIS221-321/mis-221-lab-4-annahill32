@@ -1,0 +1,15 @@
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/bin/Debug/net8.0/mis-221-lab-4-annahill32
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/bin/Debug/net8.0/mis-221-lab-4-annahill32.deps.json
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/bin/Debug/net8.0/mis-221-lab-4-annahill32.runtimeconfig.json
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/bin/Debug/net8.0/mis-221-lab-4-annahill32.dll
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/bin/Debug/net8.0/mis-221-lab-4-annahill32.pdb
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.AssemblyInfoInputs.cache
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.AssemblyInfo.cs
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.csproj.CoreCompileInputs.cache
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.sourcelink.json
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.dll
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/refint/mis-221-lab-4-annahill32.dll
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.pdb
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/mis-221-lab-4-annahill32.genruntimeconfig.cache
+/Users/annahill/Desktop/221/mis-221-lab-4-annahill32/obj/Debug/net8.0/ref/mis-221-lab-4-annahill32.dll
